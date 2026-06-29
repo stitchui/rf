@@ -165,3 +165,7 @@ Please inspect the existing codebase and adapt to the actual field names.
 * Add archive confirmation dialog.
 * Add placeholder API service methods.
 * Keep code clean, strongly typed, and compatible with React + TypeScript + MUI + AG Grid Enterprise.
+
+
+<img width="1620" height="971" alt="image" src="https://github.com/user-attachments/assets/5857f371-223c-4e11-a606-4163d39661e6" />
+
