@@ -104,5 +104,9 @@ After Save:
 Swap (21)                                  ⋮
 ```
 
-
+## Mock image
 <img width="1620" height="971" alt="image" src="https://github.com/user-attachments/assets/3eb7b028-335b-4af4-800e-0d95a70649b3" />
+
+## App Screenshot
+<img width="1752" height="1270" alt="image" src="https://github.com/user-attachments/assets/4e4c4988-840e-411e-9ce3-65dc45ef2849" />
+
